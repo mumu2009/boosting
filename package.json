@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "edge-js": "^23.1.5",
+    "node-gyp": "^11.1.0"
+  }
+}
